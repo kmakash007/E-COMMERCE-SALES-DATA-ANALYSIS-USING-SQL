@@ -1,0 +1,20 @@
+1.Show the total cost for each order.
+2.Show the customer name for the orders.
+3.Show the total amount spent by each customer.
+4.Show how many customers per country.
+5.Show the total sales by country.
+6.Show the total sales by employee.
+7.Show how many products were sold for each product.
+8.Show the total sales by product.
+9.Show how many products were sold for each category.
+10.Show the total sales by category.
+11.Show the average order value for each customer.
+12.Show the average order value for each country.
+13.Show the average order value for each employee.
+14.Show the product with the highest total sales.
+15.Show the employee with the highest total sales.
+16.Show the customer with the highest total sales.
+17.Show the month with the highest total sales.
+18.Show the total number of orders per month.
+19.Show the total number of orders handled by each employee.
+20.Show the average number of products per order.
